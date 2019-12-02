@@ -6,7 +6,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "ts-node ./src/day1_part1.ts --experimental-modules",
+    "start": "ts-node ./src/day1_part1.ts",
     "test": "jasmine --reporter=jasmine-console-reporter --config=jasmine.json"
   },
   "dependencies": {
