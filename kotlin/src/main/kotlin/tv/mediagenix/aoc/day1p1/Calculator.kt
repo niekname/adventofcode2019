@@ -1,4 +1,4 @@
-package tv.mediagenix.aoc.day1
+package tv.mediagenix.aoc.day1p1
 
 fun calculateModuleFuel(weight: Long): Long = weight / 3 - 2
 

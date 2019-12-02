@@ -1,4 +1,4 @@
-package tv.mediagenix.aoc.day1
+package tv.mediagenix.aoc.day1p1
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
